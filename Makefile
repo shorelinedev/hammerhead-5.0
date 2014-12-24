@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
-SUBLEVEL = 1
-EXTRAVERSION = CodeBlue for PrimeROM
+SUBLEVEL = 
+EXTRAVERSION = -CodeBlue for PrimeROM
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
